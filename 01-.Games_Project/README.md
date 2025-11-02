@@ -8,3 +8,15 @@
 **#  You will find two Jupyter Notebook files, each of which contains the programs for the final execution of the game.**
 
 ```
+**Piedra papel o tijeras:**
+*# Un juego sencillo con las manos que suelen jugar dos personas. Cada jugador forma simultáneamente una de tres formas con la mano: piedra, papel o tijera. La piedra gana a la tijera, la tijera gana al papel y el papel gana a la piedra. Se suele utilizar para tomar decisiones o simplemente por diversión.*
+
+**Adivina las capitales por país:**
+*# Un juego de preguntas en el que a los jugadores se les da el nombre de un país y deben adivinar su capital. Pone a prueba los conocimientos de geografía mundial y ayuda a mejorar la memoria de los países y sus capitales.*
+
+
+**Rock, Paper, Scissors:**
+**#A simple hand game usually played between two people. Each player simultaneously forms one of three shapes with their hand: rock, paper, or scissors. Rock beats scissors, scissors beats paper, and paper beats rock. It’s often used to make decisions or just for fun.**
+
+**Guess the Capitals by Country:**
+**#A quiz game where players are given the name of a country and must guess its capital city. It tests knowledge of world geography and helps improve memory of countries and their capitals.**
